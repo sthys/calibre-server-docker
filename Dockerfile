@@ -1,4 +1,4 @@
-FROM ubuntu:17.10
+FROM ubuntu:latest
 MAINTAINER santi@regueiro.es
 
 RUN apt-get update -y \
