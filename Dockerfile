@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM debian:latest
 MAINTAINER santi@regueiro.es
 
 RUN apt-get update -y \
